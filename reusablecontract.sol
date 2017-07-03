@@ -1,7 +1,7 @@
 pragma solidity ^0.4.0;
 
 
-contract MyFirstContract{
+contract ReuseContract{
     
    address owner;
     
